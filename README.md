@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @FaizAli-alt
+- 👀 I’m interested in software development, data structures, algorithms, and object-oriented programming.
+- 🌱 I’m currently learning DSA (Data Structures and Algorithms) and OOP (Object-Oriented Programming) in C++.
+- 💞️ I’m looking to collaborate on open-source projects related to C++ and algorithm development.
+- 📫 How to reach me: You can reach me via email at mohammadfaiz2397@gmail.com 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy solving complex puzzles and have a knack for competitive programming.
